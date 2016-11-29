@@ -1,0 +1,19 @@
+{
+  "name": "timesuck",
+  "version": "1.0.0",
+  "description": "A social media network from tech warriorz youtube channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asmorris/timesuck.git"
+  },
+  "author": "Andrew Morrison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asmorris/timesuck/issues"
+  },
+  "homepage": "https://github.com/asmorris/timesuck#readme"
+}
